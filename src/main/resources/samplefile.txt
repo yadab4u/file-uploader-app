@@ -1,0 +1,6 @@
+"Name":"filename.txt",
+"Type":"Document",
+"Size":"928 bytes",
+"Date":"4/19/2015",
+"Attributes":"A",
+"Availability":"Offline"
