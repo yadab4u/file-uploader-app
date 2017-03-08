@@ -5,7 +5,7 @@ This is a RESTFul API spring-boot application which have the following APIs to d
    3. [GET] _/filestream/{streamId}_: API to download content of the file which was uploaded at 1.
    4. [GET] _/fileupload/{id}_: API to get the eta-data of a file based on the provided {id} stored in the in-memory database
    
-#How to run the application (Maven execution)
+##How to run the application (Maven execution)
 ---------------
 
 
