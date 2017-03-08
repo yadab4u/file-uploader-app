@@ -16,3 +16,18 @@ This is a RESTFul API spring-boot application which has the following APIs to do
 2. To run just the tests for the app :
 
 			 mvn clean test
+By default, application listens at 8080. If you want to change it to different then add below value in application.properties:
+### server.port = 8090
+
+### Sample Request/response
+#### [POST]http://localhost:8080/fileupload 
+![ScreenShot](https://github.com/yadab4u/file-uploader-app/blob/master/post.jpg)
+
+#### [GET]http://localhost:8080/fileupload
+![ScreenShot](https://github.com/yadab4u/file-uploader-app/blob/master/get-contents.jpg)
+
+#### [GET] http://localhost:8080/fileupload/4
+![ScreenShot](https://github.com/yadab4u/file-uploader-app/blob/master/get-fileid.jpg)
+
+#### [GET]http://localhost:8080/filestream/2
+![ScreenShot](https://github.com/yadab4u/file-uploader-app/blob/master/get-contents.jpg)
