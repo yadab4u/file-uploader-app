@@ -31,3 +31,6 @@ By default, application listens at 8080. If you want to change it to different t
 
 #### [GET]http://localhost:8080/filestream/2
 ![ScreenShot](https://github.com/yadab4u/file-uploader-app/blob/master/get-contents.jpg)
+
+#### Code coverage report
+![ScreenShot](https://github.com/yadab4u/file-uploader-app/blob/master/code-coverage.jpg)
